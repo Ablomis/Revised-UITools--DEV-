@@ -1,0 +1,22 @@
+return PlaceObj('ModDef', {
+	'title', "Revised UITools [DEV]",
+	'description', "This is a mod that is used as dependency for some of the Revised mods.",
+	'last_changes', "context menu  + fix for weapon shipments",
+	'id', "VtREXYR",
+	'author', "Ablomis",
+	'version', 61,
+	'lua_revision', 233360,
+	'saved_with_revision', 340446,
+	'code', {
+		"Code/FX.lua",
+		"Code/InventoryUI.lua",
+		"Code/RepairFix.lua",
+		"Code/InventoryContextMenu.lua",
+		"Code/UIfix.lua",
+	},
+	'saved', 1695187744,
+	'code_hash', 1354861326991866871,
+	'steam_id', "3034349618",
+	'TagUI', true,
+	'TagOther', true,
+})
